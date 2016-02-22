@@ -1,6 +1,9 @@
-# Pyladies!  
+# Mapping with Python!  
 
-This repo contains information on the **IPython Notebooks/Matplotlib** workshop.
+This repo contains a notebook on how to map using python.
+
+
+## Install Directions
 
 The directions contained here have been done on a Mac.  Not sure how to do it on a PC, but Google is a good source of help :-).
 
